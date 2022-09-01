@@ -8,15 +8,20 @@ if (inputLineA != null && inputLineB != null) //Проверка чтобы по
    int inputNumberA = int.Parse(inputLineA); //перевод строки в число
    int inputNumberB = int.Parse(inputLineB); //перевод строки в число
 
-   if (inputNumberA == inputNumberB){ //проверка равны ли числа
+   if (inputNumberA == inputNumberB)
+   { //проверка равны ли числа
       Console.WriteLine("они равны");
-   }else if (inputNumberA > inputNumberB){ // если первое больше второго,то оно и будет максимальным
+   }
+   else if (inputNumberA > inputNumberB)
+   { // если первое больше второго,то оно и будет максимальным
       max = inputNumberA;
-      Console.WriteLine("max = " +  max);
+      Console.WriteLine("max = " + max);
 
-   }else{ //иначе второе
+   }
+   else
+   { //иначе второе
       max = inputNumberB;
-      Console.WriteLine("max = " +  max);
+      Console.WriteLine("max = " + max);
 
    }
 
