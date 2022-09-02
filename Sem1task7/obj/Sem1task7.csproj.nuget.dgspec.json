@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stupi\\Desktop\\C##\\C-lesson-1\\Sem1task7\\Sem1task7.csproj": {}
+    "C:\\Users\\stupi\\Desktop\\C##\\C-lesson-1\\Sem1Task7\\Sem1task7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stupi\\Desktop\\C##\\C-lesson-1\\Sem1task7\\Sem1task7.csproj": {
+    "C:\\Users\\stupi\\Desktop\\C##\\C-lesson-1\\Sem1Task7\\Sem1task7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stupi\\Desktop\\C##\\C-lesson-1\\Sem1task7\\Sem1task7.csproj",
+        "projectUniqueName": "C:\\Users\\stupi\\Desktop\\C##\\C-lesson-1\\Sem1Task7\\Sem1task7.csproj",
         "projectName": "Sem1task7",
-        "projectPath": "C:\\Users\\stupi\\Desktop\\C##\\C-lesson-1\\Sem1task7\\Sem1task7.csproj",
+        "projectPath": "C:\\Users\\stupi\\Desktop\\C##\\C-lesson-1\\Sem1Task7\\Sem1task7.csproj",
         "packagesPath": "C:\\Users\\stupi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stupi\\Desktop\\C##\\C-lesson-1\\Sem1task7\\obj\\",
+        "outputPath": "C:\\Users\\stupi\\Desktop\\C##\\C-lesson-1\\Sem1Task7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stupi\\AppData\\Roaming\\NuGet\\NuGet.Config"
